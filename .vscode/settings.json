@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "oled.h": "c",
+        "main.h": "c",
+        "usergui.h": "c",
+        "icon.h": "c",
+        "u8g2.h": "c"
+    },
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 21
+}
